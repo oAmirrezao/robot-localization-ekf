@@ -1,2 +1,0 @@
-# Robot Local Localization Package
-
