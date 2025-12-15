@@ -1,4 +1,4 @@
-
+<img width="1210" height="883" alt="img2" src="https://github.com/user-attachments/assets/1f20604f-7740-46e5-92e9-6f33bd1f4f01" />
 <br>
 
 ## 🤖 پروژه تخمین موقعیت محلی ربات دیفرانسیلی با فیلتر کالمن توسعه‌یافته (EKF)
@@ -150,3 +150,24 @@ ros2 launch robot_local_localization ekf_localization.launch.py
     ros2 bag record -s mcap -o final_data /ekf/path /motion_model/path /measurement_model/path /real/path /tf /tf_static
     ```
 2.  **تحلیل در Foxglove:** با بارگذاری فایل ضبط شده در Foxglove Studio، می‌توان مسیرهای تخمینی EKF، مدل حرکت، اندازه‌گیری و مسیر واقعی را به طور همزمان و رنگی مشاهده و تحلیل کرد تا دقت تلفیق سنسورها ارزیابی شود.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/73c24ee7-b066-426d-ab2d-1d491a0fa77e" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cd52cd0e-82ec-4246-8fa4-4a0385b2b5ca" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/39491ada-20af-4063-9615-5f1f79693ee9" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e4b6fe72-a83f-4b7f-936a-9f0758069a77" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
