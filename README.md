@@ -177,5 +177,6 @@ ros2 launch robot_local_localization ekf_localization.launch.py
   <img src="https://github.com/user-attachments/assets/0f10c3d1-6818-478b-85bb-bd374ba3345c"
        style="width:100%; max-width:900px; object-fit:contain;" />
 </p>
-/>
+
+
 
