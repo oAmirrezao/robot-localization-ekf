@@ -1,4 +1,3 @@
-<img width="1210" height="883" alt="img2" src="https://github.com/user-attachments/assets/1f20604f-7740-46e5-92e9-6f33bd1f4f01" />
 <br>
 
 ## 🤖 پروژه تخمین موقعیت محلی ربات دیفرانسیلی با فیلتر کالمن توسعه‌یافته (EKF)
